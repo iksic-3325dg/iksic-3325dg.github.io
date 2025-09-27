@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+}
+
+.container {
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url();
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.top-wrapper h3 {
+    font-size: 45px;
+    letter-spacing: 5px;
+}
+
+.btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34,49,52,0.9);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.header-left {
+    float: left;
+    margin-left: 25px;
+}
+
+.header-right {
+    float: right;
+    margin-right: 25px;
+}
+
+.header-right a{
+    line-height: 65px;
+    padding: 0 25px;
+    color: white;
+    float: left;
+    transition: all 0.5s;
+}
+
+.header-right a :hover{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.main-wrapper {
+    height: 580px;
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.heading {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    color: #5f5d60;
+}
+
+.heading h1 {
+    font-weight: normal;
+}
+
+.main-contents {
+    padding: 50px 0;
+    text-align: center;
+    color: white;
+}
+
+.main-contents img {
+    padding-bottom: 25px;
+}
+
+.main-contents p {
+    font-size: 25px;
+}
+
+.commercial-wrapper {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.attention-wrappwer {
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.footer-left {
+    float: left;
+    font-size: 12px;
+    color: #b3aeb5;
+}
+
+.footer-right {
+    float: right;
+}
+
+.footer-right a {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.footer-right a:hover {
+    opacity: 1;
+}
