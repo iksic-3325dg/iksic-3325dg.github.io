@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<meta charset=“utf-8”>
+		<meta name=“viewport” content=“width=device-width, initial-scale=1”>
+		<title>KTR Daily Photo Blog.</title>
+        <script src="https://kit.fontawesome.com/16ab2ca5ce.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet1" type="text/css" href="stylesheet1.css"> 
+	</head>
+	<body>
+        <header>
+            <div class="container">
+                <div class="header-left">
+                    <h2>KTRPhotoBlog.</h2>
+                </div>
+                <div class="header-right">
+                    <a href="#">ホーム</a>
+                    <a href="#">ブログ</a>
+                    <a href="#">写真の撮り方</a>     
+                    <a href="#">自己紹介</a>                                    
+                </div>
+            </div>
+        </header>
+        <div class="top-wrapper">
+            <div class="container">
+                <h3>KTRPhotoBlog.</h3>
+
+            </div>
+        </div>
+        <div class="main-wrapper">
+            <div class="container">
+                <div class="heading">
+                    <h1>令和の鉄道にノスタルジーを求めて</h1>
+                </div>
+                <div class="main-contents">
+                    <img src="" width="300px" height="200px">
+                    <p>昭和の鉄道車両には底知れぬ魅力があります。</p>
+                    <p>極めてバランスの取れた顔立ちに、景観にぴたりと調和する彩色。</p>
+                    <p>ごつごつした車体表面の重厚さに、迫力ある出で立ち。</p>
+                    <p>車体にもどこか温かさが感じられ、そして哀愁が漂っています。</p>
+                    <p>沢山の人に長く大切にされる中で、人の情が移ってきたのかも知れません。</p>
+                    <p>そんな古く懐かしい車両たちも令和の時代に入り、急速に数が減っております。</p>
+                    <p>国鉄型車両は消滅間近な状況であり、大手私鉄も日に日に旧型車両が引退していきます。</p>
+                    <p>私もそんな昭和の鉄道車両に魅了された一人として、時代に追いかけられるように、鉄道編成写真を日々撮影しておりました。</p>
+                    <p>私が社会人になりたての頃、仕事そっちのけで全国を巡って撮影した写真を公開していきたいと思います。</p>
+                    <p>令和の世にも再び魅力あふれる鉄道車両が登場することや、引退した車両の動態保存運行が活発になることを願ってやみません。</p>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-wrapper">
+            <div class="container">
+                <a class="btn check">最新記事をチェック</a>
+            </div>
+        </div>
+        <div class="attention-wrapper">
+            <div class="container">
+                <p>画像の無断転載を禁止します</p>
+            </div>
+        </div>
+        <footer>
+            <div class="container">
+                <div class="footer-left">
+                    <p>KTRPhotoBlog.</p>
+                </div>
+                <div class="footer-right">
+                    <a href="#" class="btn X"><i class="fa-brands fa-x-twitter"></i>X(旧Twitter)のアカウントはこちら</a>
+                </div>
+            </div>
+        </footer>
+	</body>
+</html>
