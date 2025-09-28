@@ -89,7 +89,7 @@ header {
 }
 
 .main-contents {
-    padding: 300px 0;
+    height: 300px;
     text-align: center;
     color: white;
 }
