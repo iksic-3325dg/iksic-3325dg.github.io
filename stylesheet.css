@@ -74,6 +74,7 @@ header {
     height: 1000px;
     background-image: url("1K6A4296【T：4900K,M+1,濃さ2】SQ.jpg");
     background-size: cover;
+    width: 100%;
     opacity: 0.8;
     padding-bottom: 80px;
     padding-left: 5%;
