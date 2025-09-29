@@ -51,6 +51,7 @@ header {
 .header-left {
     float: left;
     margin-left: 25px;
+    color: white;
 }
 
 .header-right {
