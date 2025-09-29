@@ -78,12 +78,12 @@ header {
     padding-bottom: 80px;
     padding-left: 5%;
     padding-right: 5%;
-    text-align: left;
 }
 
 .heading {
     padding: 20px 0;
     color: white;
+    text-align: center;
 }
 
 .heading h1 {
@@ -92,7 +92,7 @@ header {
 
 .main-contents {
     height: 100px;
-    text-align: center;
+    text-align: left;
     color: white;
 }
 
