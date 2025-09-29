@@ -14,7 +14,7 @@ body {
 }
 
 .top-wrapper {
-    padding: 10px 0;
+    padding: 60px 0 10px 0;
     background-image: url();
     background-size: cover;
     color: white;
@@ -40,7 +40,7 @@ body {
 }
 
 header {
-    height: 65px;
+    height: 60px;
     width: 100%;
     background-color: rgba(34,49,52,0.9);
     position: fixed;
@@ -71,7 +71,7 @@ header {
 }
 
 .main-wrapper {
-    height: 580px;
+    height: 1000px;
     padding-bottom: 80px;
     padding-left: 5%;
     padding-right: 5%;
