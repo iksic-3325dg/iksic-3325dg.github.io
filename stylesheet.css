@@ -15,8 +15,6 @@ body {
 
 .top-wrapper {
     padding: 300px 0 10px 0;
-    background-image: url("1K6A4296【T：4900K,M+1,濃さ2】SQ.jpg");
-    background-size: cover;
     color: white;
     text-align: center;
 }
@@ -73,6 +71,8 @@ header {
 
 .main-wrapper {
     height: 1000px;
+    background-image: url("1K6A4296【T：4900K,M+1,濃さ2】SQ.jpg");
+    background-size: cover;
     padding-bottom: 80px;
     padding-left: 5%;
     padding-right: 5%;
