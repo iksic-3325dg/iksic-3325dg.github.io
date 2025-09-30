@@ -69,6 +69,7 @@ header {
     padding: 0 25px;
     color: white;
     display: block;
+    float: left;
 }
 
 .header-right a :hover{
