@@ -43,29 +43,30 @@ header {
     width: 100%;
     background-color: rgba(34,49,52,0.9);
     position: fixed;
+    display: flex;
     top: 0;
     z-index: 10;
 }
 
 .header-left {
     float: left;
-    margin-left: 25px;
 
 .header-left h2 {
     color: white;
+    margin-right: 25px;
     line-height: 60px;
 }
 
 .header-right {
     float: right;
     margin-right: 25px;
+    transition: all 0.5s;
 }
 
 .header-right a{
     line-height: 60px;
     padding: 0 25px;
     color: white;
-    transition: all 0.5s;
     display: block;
 }
 
