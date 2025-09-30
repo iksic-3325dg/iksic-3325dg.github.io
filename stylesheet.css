@@ -50,9 +50,10 @@ header {
 .header-left {
     float: left;
     margin-left: 25px;
+
+.header-left h2 {
     color: white;
-    padding: 0;
-    font-size: 30px;
+    line-height: 60px;
 }
 
 .header-right {
@@ -61,10 +62,9 @@ header {
 }
 
 .header-right a{
-    line-height: 65px;
+    line-height: 60px;
     padding: 0 25px;
     color: white;
-    float: left;
     transition: all 0.5s;
 }
 
