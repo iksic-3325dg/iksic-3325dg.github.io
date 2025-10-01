@@ -18,8 +18,8 @@ a {
 }
 
 .top-wrapper {
-    padding-top: 60px;
-    color: white;
+    padding: 60px 0 10px 0;
+    color: rgba(34,49,52,0.9);
     text-align: center;
     background-color: #f7f7f7;
 }
