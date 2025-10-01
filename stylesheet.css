@@ -24,7 +24,7 @@ a {
     background-color: #f7f7f7;
 }
 
-.top-wrapper h3 {
+.top-wrapper h2 {
     font-size: 30px;
     letter-spacing: 5px;
 }
@@ -58,7 +58,7 @@ header {
     margin-left: 25px;
 }
 
-.header-left h2 {
+.header-left h3 {
     color: white;
 }
 
