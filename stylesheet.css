@@ -66,6 +66,7 @@ header {
     float: right;
     margin-right: 25px;
     transition: all 0.5s;
+    background-color: rgba(255,255,255,0.3);
 }
 
 .header-right a{
@@ -74,7 +75,6 @@ header {
     color: white;
     display: block;
     float: left;
-    background-color: rgba(255,255,255,0.3);
 }
 
 .header-right :hover{
