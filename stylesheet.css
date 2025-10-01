@@ -54,12 +54,12 @@ header {
 
 .header-left {
     float: left;
+    line-height: 50px;
+    margin-left: 25px;
 }
 
 .header-left h2 {
     color: white;
-    margin-right: 25px;
-    line-height: 60px;
 }
 
 .header-right {
