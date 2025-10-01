@@ -43,7 +43,7 @@ a {
 }
 
 header {
-    height: 60px;
+    height: 50px;
     width: 100%;
     background-color: rgba(34,49,52,0.9);
     position: fixed;
@@ -65,16 +65,15 @@ header {
 .header-right {
     float: right;
     margin-right: 25px;
-    transition: all 0.5s;
-    background-color: rgba(255,255,255,0.3);
 }
 
 .header-right a{
-    line-height: 60px;
+    line-height: 50px;
     padding: 0 25px;
     color: white;
     display: block;
     float: left;
+    transition: all 0.5s;
 }
 
 .header-right :hover{
