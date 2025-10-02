@@ -137,7 +137,7 @@ header {
 footer {
     padding-top: 10px;
     background-color: rgba(34,49,52,0.9);
-    z-index: 10;
+    height: auto;
 }
 
 .attention-wrapper {
