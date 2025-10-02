@@ -48,7 +48,7 @@ a {
     opacity: 1;
 }
 
-.btn:active {
+.check:active {
     box-shadow: none;
     position: relative;
     top: 6px;
