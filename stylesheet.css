@@ -122,9 +122,6 @@ header {
 .main-contents p {
     font-size: 20px;
     line-height: 41px;
-    -webkit-text-stroke: 0.5px black;
-    text-stroke: 0.5px black;
-    point-order: stroke;
     font-weight: bold;
 }
 
