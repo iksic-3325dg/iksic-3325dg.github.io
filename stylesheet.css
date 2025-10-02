@@ -162,6 +162,7 @@ footer {
     margin-left: 25px;
     font-size: 20px;
     color: white;
+    vertical-align: bottom;
 }
 
 .footer-right {
