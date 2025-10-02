@@ -155,13 +155,10 @@ footer {
     color: white;
 }
 
-.footer-right {
-    float: right;
-}
-
 .Xlink {
     position: relative;
     margin-right: 40px;
+    float: right;
 }
 
 .X {
