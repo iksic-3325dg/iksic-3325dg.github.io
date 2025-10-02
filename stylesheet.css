@@ -139,7 +139,6 @@ footer {
     background-color: rgba(34,49,52,0.9);
     position: sticky;
     top: 100vh;
-    position: relative;
 }
 
 .attention-wrapper h4 {
