@@ -161,6 +161,7 @@ footer {
 
 .Xlink {
     position: relative;
+    margin-right: 40px;
 }
 
 .X {
@@ -174,7 +175,7 @@ footer {
     background-color: rgb(47, 154, 235);
     position: absolute;
     top: 0;
-    right: 40px;
+    right: 0;
     z-index: 10;
 }
 
@@ -190,7 +191,7 @@ footer {
     background-color: white;
     position: absolute;
     top: 0;
-    right: 40px;
+    right: 0;
     z-index: 5;
 }
 
