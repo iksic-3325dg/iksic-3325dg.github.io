@@ -30,6 +30,7 @@
     }
 
     .main-contents p {
+        padding: 10px 20px;
         font-size: 20px;
         line-height: 30px;
         font-weight: bold;
