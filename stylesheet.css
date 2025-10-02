@@ -41,6 +41,7 @@ a {
 .check {
     background-color: rgb(0, 195, 39);
     font-size: 20px;
+    box-shadow: 0 7px #1a7940;
 }
 
 .btn:hover {
@@ -126,6 +127,7 @@ header {
     padding: 20px 0;
     margin: 20px 0;
     text-align: center;
+    border-bottom: 1px solid #eee;
 }
 
 .attention-wrappwer {
