@@ -13,7 +13,6 @@ a {
 
 .container {
     width: 100%;
-    /* padding: 0 15px; */
     margin: 0 auto;
 }
 
@@ -31,7 +30,7 @@ a {
 
 .btn {
     padding: 15px 50px;
-    color: white;
+    color: #ffffff;
     display: inline-block;
     opacity: 0.9;
     border-radius: 5px;
@@ -41,7 +40,7 @@ a {
 .check {
     background-color: rgb(0, 195, 39);
     font-size: 20px;
-    box-shadow: 0 7px #1a7940;
+    box-shadow: 0 6px #1a7940;
 }
 
 .btn:hover {
@@ -53,6 +52,7 @@ a {
     position: relative;
     top: 6px;
 }
+
 header {
     height: 50px;
     width: 100%;
@@ -65,8 +65,8 @@ header {
 
 .header-left {
     float: left;
-    line-height: 50px;
     margin-left: 25px;
+    line-height: 50px;
 }
 
 .header-left h3 {
@@ -87,7 +87,7 @@ header {
     transition: all 0.5s;
 }
 
-.header-right :hover{
+.header-right :hover {
     background-color: rgba(255,255,255,0.3);
 }
 
@@ -115,8 +115,8 @@ header {
 
 .main-contents {
     height: 100px;
-    text-align: left;
     color: white;
+    text-align: left;
 }
 
 .main-contents p {
@@ -129,7 +129,7 @@ header {
 }
 
 .commercial-wrapper {
-    padding: 40px 0;
+    padding: 40px 0 50px 0;
     text-align: center;
     border-bottom: 1px solid #eee;
 }
@@ -160,7 +160,7 @@ footer {
 
 .footer-right {
     float: right;
-    margin-right: 50px;
+    margin-right: 40px;
     margin-bottom: 28px;
 }
 
