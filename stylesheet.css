@@ -149,6 +149,14 @@ footer {
     color: white;
 }
 
+.attention-wrapper p {
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 5px;
+    color: white;
+}
+
 .footer-left {
     float: left;
     margin-right: 25px;
