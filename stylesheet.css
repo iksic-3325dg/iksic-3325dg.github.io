@@ -157,6 +157,7 @@ footer {
 
 .footer-right {
     float: right;
+    background-color: white;
 }
 
 .footer-right a {
