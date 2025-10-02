@@ -159,6 +159,10 @@ footer {
     float: right;
 }
 
+.Xlink {
+    position: relative;
+}
+
 .footer-right a {
     padding: 10px 24px;
     margin-bottom: 28px;
