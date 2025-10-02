@@ -48,6 +48,11 @@ a {
     opacity: 1;
 }
 
+.btn:active {
+    box-shadow: none;
+    position: relative;
+    top: 6px;
+}
 header {
     height: 50px;
     width: 100%;
