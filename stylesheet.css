@@ -162,7 +162,7 @@ footer {
     opacity: 0.9;
     border-radius: 4px;
     text-align: center;
-    background-color: #55acee;
+    background-color: rgb(47, 154, 235);
 }
 
 .footer-right a:hover {
