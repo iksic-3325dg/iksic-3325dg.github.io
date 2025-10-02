@@ -127,10 +127,12 @@ header {
     font-weight: bold;
 }
 
-span {
-    -webkit-text-stroke: 0.5px black;
-    text-stroke: 0.5px black;
-    point-order: stroke;
+@media(min-width:1000px) {
+    span {
+        -webkit-text-stroke: 0.5px black;
+        text-stroke: 0.5px black;
+        point-order: stroke;
+    }
 }
     
 .commercial-wrapper {
