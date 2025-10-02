@@ -169,6 +169,7 @@ footer {
     border-radius: 5px;
     text-align: center;
     background-color: rgb(47, 154, 235);
+    margin-bottom: 28px;
 }
 
 .X:hover {
