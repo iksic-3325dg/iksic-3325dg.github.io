@@ -165,14 +165,14 @@ footer {
     padding: 10px 24px;
     color: white;
     display: inline-block;
-    opacity: 0.9;
+    opacity: 1;
     border-radius: 5px;
     text-align: center;
     background-color: rgb(47, 154, 235);
 }
 
 .X:hover {
-    opacity: 1;
+    opacity: 0.9;
 }
 
 .clear {
