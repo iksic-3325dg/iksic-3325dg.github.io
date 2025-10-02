@@ -158,12 +158,12 @@ footer {
 .Xlink {
     position: relative;
     margin-right: 40px;
+    margin-bottom: 28px;
     float: right;
 }
 
 .X {
     padding: 10px 24px;
-    margin-bottom: 28px;
     color: white;
     display: inline-block;
     opacity: 0.9;
@@ -171,7 +171,7 @@ footer {
     text-align: center;
     background-color: rgb(47, 154, 235);
     position: absolute;
-    top: 0;
+    bottom: 0;
     right: 0;
     z-index: 10;
     width: 100%;
@@ -183,12 +183,11 @@ footer {
 
 .itembox {
     padding: 10px 24px;
-    margin-bottom: 28px;
     display: inline-block;
     border-radius: 5px;
     background-color: white;
     position: absolute;
-    top: 0;
+    bottom: 0;
     right: 0;
     z-index: 5;
     width: 100%;
