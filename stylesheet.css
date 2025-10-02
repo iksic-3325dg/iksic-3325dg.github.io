@@ -91,15 +91,17 @@ header {
     background-color: rgba(255,255,255,0.3);
 }
 
-.main-wrapper {
-    height: 800px;
-    background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
-    background-size: 100% auto;
-    opacity: 0.8;
-    padding-bottom: 80px;
-    padding-left: 5%;
-    padding-right: 5%;
-    font-family: 'YuGothic';
+@media(min-width:1000px) {
+    .main-wrapper {
+        height: 800px;
+        background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
+        background-size: 100% auto;
+        opacity: 0.8;
+        padding-bottom: 80px;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-family: 'YuGothic';
+    }
 }
 
 .heading {
