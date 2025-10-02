@@ -156,11 +156,9 @@ footer {
     color: white;
 }
 
-.Xlink {
-    position: relative;
+.footer-right {
     margin-right: 40px;
     margin-bottom: 28px;
-    float: right;
 }
 
 .X {
@@ -171,27 +169,10 @@ footer {
     border-radius: 5px;
     text-align: center;
     background-color: rgb(47, 154, 235);
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    z-index: 10;
-    width: 100%;
 }
 
 .X:hover {
     opacity: 1;
-}
-
-.itembox {
-    padding: 10px 24px;
-    display: inline-block;
-    border-radius: 5px;
-    background-color: white;
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    z-index: 5;
-    width: 100%;
 }
 
 .clear {
