@@ -161,6 +161,7 @@ footer {
     opacity: 0.8;
     border-radius: 4px;
     text-align: center;
+    background-color: #55acee;
 }
 
 .footer-right a:hover {
