@@ -157,14 +157,6 @@ footer {
     color: white;
 }
 
-.footer-left {
-    float: left;
-    margin-left: 30px;
-    font-size: 20px;
-    color: white;
-    vertical-align: bottom;
-}
-
 .footer-right {
     float: right;
     margin-right: 50px;
@@ -187,4 +179,12 @@ footer {
 
 .clear {
     clear: both;
+}
+
+.footer-left {
+    float: left;
+    margin-left: 30px;
+    font-size: 20px;
+    color: white;
+    vertical-align: bottom;
 }
