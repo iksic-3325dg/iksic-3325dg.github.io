@@ -163,20 +163,33 @@ footer {
     position: relative;
 }
 
-.footer-right a {
+.X {
     padding: 10px 24px;
     margin-bottom: 28px;
-    margin-right: 40px;
     color: white;
     display: inline-block;
     opacity: 0.9;
     border-radius: 5px;
     text-align: center;
     background-color: rgb(47, 154, 235);
+    position: absolute;
+    top: 0;
+    right: 40px;
 }
 
-.footer-right a:hover {
+.X:hover {
     opacity: 1;
+}
+
+.itembox {
+    padding: 10px 24px;
+    margin-bottom: 28px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    right: 40px;
 }
 
 .clear {
