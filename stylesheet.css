@@ -4,7 +4,8 @@
 
 body {
     margin: 0;
-    font-family: "Hiragino Kaku Gothic ProN";
+    font-family: "Hiragino Kaku Gothic ProN"
+    min-height: 100vh;
 }
 
 a {
@@ -139,7 +140,6 @@ header {
     padding: 40px 0 50px 0;
     text-align: center;
     border-bottom: 1px solid #eee;
-    min-height: 100vh;
 }
 
 footer {
