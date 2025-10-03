@@ -9,11 +9,13 @@
     }
 
     .heading {
-        padding: 20px 0;
+        padding-top: 20px;
         color: white;
         text-align: center;
         width: 100%;
-        background-color: rgba(34,49,52,0.9);
+        background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
     }
 
     .heading h1 {
@@ -24,9 +26,6 @@
         height: auto;
         color: white;
         text-align: left;
-        background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
-        background-size: cover;
-        background-position: center;
     }
 
     .main-message {
