@@ -1,4 +1,11 @@
 @media(max-width:1000px) {
+    .top-wrapper {
+        padding: 70px 0 10px 0;
+        color: rgba(34,49,52,0.9);
+        text-align: center;
+        background-color: #f7f7f7;
+    }
+    
     .main-wrapper {
         opacity: 0.8;
         /* padding-bottom: 80px; */
