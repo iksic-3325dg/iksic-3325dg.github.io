@@ -10,6 +10,15 @@
         float: right;
         margin-right: 0;
     }
+
+    .header-right a{
+        line-height: 50px;
+        padding: 0 10px;
+        color: white;
+        display: block;
+        float: left;
+        transition: all 0.5s;
+    }
     
     .main-wrapper {
         opacity: 0.8;
