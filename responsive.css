@@ -75,5 +75,7 @@
 }
 
 @media(max-width:670px) {
-    
+    .top-wrapper {
+        display: none;
+    }
 }
