@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN"
-    min-height: 100vh;
+    min-height: 100dvh;
 }
 
 a {
@@ -146,7 +146,7 @@ footer {
     padding-top: 10px;
     background-color: rgba(34,49,52,0.9);
     position: sticky;
-    top: 100vh;
+    top: 100dvh;
 }
 
 .attention-wrapper h4 {
