@@ -139,13 +139,16 @@ header {
     padding: 40px 0 50px 0;
     text-align: center;
     border-bottom: 1px solid #eee;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 165.5px;
 }
 
 footer {
     padding-top: 10px;
     background-color: rgba(34,49,52,0.9);
-    position: sticky;
-    top: 100vh;
+    position: absolute;
+    bottom: 0;
 }
 
 .attention-wrapper h4 {
