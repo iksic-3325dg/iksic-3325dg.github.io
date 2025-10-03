@@ -24,6 +24,8 @@
     .main-contents {
         padding-top: 20px;
         padding-bottom: 20px;
+        padding-left: 5%;
+        padding-right: 5%;
         height: auto;
         color: black;
         text-align: left;
