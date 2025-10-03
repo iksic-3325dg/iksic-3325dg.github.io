@@ -95,6 +95,15 @@
         border-bottom: 1px solid #eee;
     }
 
+    .attention-wrapper p {
+        font-size: 20px;
+        font-weight: normal;
+        text-align: center;
+        letter-spacing: 5px;
+        color: white;
+        padding-bottom: 10px;
+    }
+    
     .X {
         color: white;
         display: inline-block;
