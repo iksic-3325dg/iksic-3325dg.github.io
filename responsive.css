@@ -8,18 +8,17 @@
     }
 
     .heading {
-        color: white;
-        text-align: center;
+        padding-top: 20px;
         background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
         aspect-ratio: 3/2;
         background-size: cover;
-        width: 100%;
         opacity: 1;
+        width: 100%;
     }
 
     .heading h1 {
         padding-top: 10px;
-        font-size: 35px;
+        font-size: 40px;
     }
 
     .main-contents {
