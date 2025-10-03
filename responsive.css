@@ -2,16 +2,10 @@
 @media(max-width:1000px) {
     .top-wrapper {
         padding: 70px 0 10px 0;
-        color: rgba(34,49,52,0.9);
-        text-align: center;
-        background-color: #f7f7f7;
     }
     
     .main-wrapper {
         opacity: 0.8;
-        /* padding-bottom: 80px; */
-        /* padding-left: 5%; */
-        /* padding-right: 5%; */
         font-family: 'YuGothic';
     }
 
@@ -24,7 +18,6 @@
     }
 
     .heading h1 {
-        font-weight: bold;
         font-size: 32px;
     }
 
@@ -35,7 +28,6 @@
         background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
         background-size: cover;
         background-position: center;
-        /* background-color: #f7f7f7; */
     }
 
     .main-message {
@@ -49,23 +41,14 @@
     }
 
     .check {
-        background-color: rgb(0, 195, 39);
         font-size: 25px;
-        box-shadow: 0 6px #1a7940;
     }
 
     header {
         height: 60px;
-        width: 100%;
-        background-color: rgba(34,49,52,0.9);
-        position: fixed;
-        display: flex;
-        top: 0;
-        z-index: 10;
     }
 
     .header-left {
-        float: left;
         margin-left: 25px;
         line-height: 60px;
     }
@@ -75,44 +58,22 @@
         font-size: 25px;
     }
 
-    .header-right {
-        float: right;
-        margin-right: 25px;
-    }
-
     .header-right a{
         line-height: 60px;
         font-size: 20px;
         padding: 0 10px;
-        color: white;
-        display: block;
-        float: left;
-        transition: all 0.5s;
     }
 
     .commercial-wrapper {
         padding: 60px 0 60px 0;
-        text-align: center;
-        border-bottom: 1px solid #eee;
     }
 
     .attention-wrapper p {
-        font-size: 20px;
-        font-weight: normal;
-        text-align: center;
-        letter-spacing: 5px;
-        color: white;
         padding-bottom: 10px;
     }
     
     .X {
-        color: white;
-        display: inline-block;
-        opacity: 1;
-        border-radius: 5px;
-        text-align: center;
         font-size: 20px;
-        background-color: rgb(47, 154, 235);
     }
 }
 
