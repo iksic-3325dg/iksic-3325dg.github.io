@@ -9,7 +9,6 @@
     }
 
     .heading {
-        padding-top: 20px;
         color: white;
         text-align: center;
         background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
@@ -19,6 +18,7 @@
     }
 
     .heading h1 {
+        padding-top: 20px;
         font-size: 32px;
     }
 
