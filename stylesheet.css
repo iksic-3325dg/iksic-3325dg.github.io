@@ -143,7 +143,6 @@ header {
     border-bottom: 1px solid #eee;
     display: flex;
     min-height: 188.5px;
-    height: auto;
 }
 
 footer {
