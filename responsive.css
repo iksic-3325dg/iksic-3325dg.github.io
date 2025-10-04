@@ -1,9 +1,78 @@
-@media(max-width: 670px) {
+@media(max-width: 1050px) {
+    .top-wrapper {
+        padding: 70px 0 10px 0;
+    }
+    
+    .main-wrapper {
+        font-family: 'YuGothic';
+    }
+
+    .heading {
+        padding-top: 30px;
+        background-image: url("1K6A4296【T：ー,4900K,M+1,濃さ2】画質9,SQ.jpg");
+        aspect-ratio: 3/2;
+        background-size: cover;
+        opacity: 1;
+        width: 100%;
+    }
+
+    .heading h1 {
+        font-size: 35px;
+    }
+
+    .main-contents {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 5%;
+        padding-right: 5%;
+        height: auto;
+        color: black;
+        text-align: left;
+        background-color: #f7f7f7;
+    }
+
+    .main-contents p {
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: bold;
+    }
+
+    .check {
+        font-size: 25px;
+    }
+
     header {
-        height: 120px;
+        height: 60px;
+    }
+
+    .header-left {
+        margin-left: 25px;
+        line-height: 60px;
+    }
+
+    .header-left h3 {
+        color: white;
+        font-size: 25px;
+    }
+
+    .header-right a{
+        line-height: 60px;
+        font-size: 20px;
+        padding: 0 10px;
+    }
+
+    .commercial-wrapper {
+        padding: 60px 0 60px 0;
+    }
+
+    .attention-wrapper p {
+        padding-bottom: 10px;
+    }
+    
+    .X {
+        font-size: 20px;
     }
 }
-
 
 @media(max-width: 670px) {
     header {
