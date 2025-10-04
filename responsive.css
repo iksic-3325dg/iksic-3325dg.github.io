@@ -102,4 +102,14 @@
         float: left;
         transition: all 0.5s;
     }
+
+    .heading h1 {
+        font-size: 24px;
+    }
+
+    .main-contents p {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: bold;
+    }
 }
