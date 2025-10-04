@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN";
     min-height: 100dvh;
-    height: 100%;
+    /* height: 100%; */
 }
 
 a {
